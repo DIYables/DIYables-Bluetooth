@@ -27,14 +27,16 @@ This library provides clean architecture with platform abstraction supporting bo
 | Arduino Giga | ✅ | ❌ | ✅ |
 | [DIYables STEM V4 IoT Board](https://diyables.io/products/diyables-stem-v4-iot-fully-compatible-with-arduino-uno-r4-wifi) | ✅ | ❌ | ✅ |
 | [DIYables ESP32](https://diyables.io/products/38-pin-esp32s-esp-wroom-32-wifi-and-bluetooth-development-board-with-usb-type-c-and-cp2102-dual-core-esp32-microcontroller-for-iot-projects-compatible-with-arduino-ide) | ✅ | ✅ | ✅ |
-| Arduino Nano 33 BLE | ✅ | Not yet | Not yet |
-| Arduino Nano 33 BLE Sense | ✅ | Not yet | Not yet |
-| Arduino Nano 33 IoT | ✅ | Not yet | Not yet |
+| [DIYables ESP32 Uno-form](https://diyables.io/products/esp32-wroom-32-development-board-compatible-with-uno-form-factor-shields-wifi-bluetooth-ch340-usb-type-c-4mb-flash) | ✅ | ✅ | ✅ |
+| [DIYables ESP32-S3 Uno-form](https://diyables.io/products/esp32-s3-development-board-with-esp32-s3-wroom-1-n16r8-wifi-bluetooth-uno-compatible-form-factor-works-with-arduino-ide) | ✅ | ✅ | ✅ |
+| Arduino Nano 33 BLE | ✅ | ❌ | Not yet |
+| Arduino Nano 33 BLE Sense | ✅ | ❌ | Not yet |
+| Arduino Nano 33 IoT | ✅ | ❌ | Not yet |
 | Arduino Nano ESP32 | ✅ | ✅ | Not yet |
-| Arduino Nano RP2040 Connect | ✅ | Not yet | Not yet |
-| ESP32-S3 | ✅ | Not yet | Not yet |
-| ESP32-C3 | ✅ | Not yet | Not yet |
-| Any ArduinoBLE-compatible board | ✅ | Not yet | Not yet |
+| Arduino Nano RP2040 Connect | ✅ | ❌ | Not yet |
+| ESP32-S3 | ✅ | ✅ | Not yet |
+| ESP32-C3 | ✅ | ❌ | Not yet |
+| Any ArduinoBLE-compatible board | ✅ | ❌ | Not yet |
 
 ## 📋 Available Apps
 
