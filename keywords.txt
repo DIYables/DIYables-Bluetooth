@@ -1,0 +1,127 @@
+#######################################
+# Syntax Coloring Map For DIYables Bluetooth
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+IBluetooth	KEYWORD1
+DIYables_BluetoothAppBase	KEYWORD1
+DIYables_BluetoothServer	KEYWORD1
+DIYables_BluetoothMonitor	KEYWORD1
+DIYables_BluetoothJoystick	KEYWORD1
+DIYables_BluetoothPlotter	KEYWORD1
+DIYables_BluetoothPinControl	KEYWORD1
+DIYables_BluetoothChat	KEYWORD1
+DIYables_ArduinoBLE	KEYWORD1
+DIYables_Esp32Bluetooth	KEYWORD1
+DIYables_Esp32BLE	KEYWORD1
+DIYables_BluetoothSlider	KEYWORD1
+DIYables_BluetoothTable	KEYWORD1
+DIYables_BluetoothTemperature	KEYWORD1
+DIYables_BluetoothAnalogGauge	KEYWORD1
+DIYables_BluetoothRotator	KEYWORD1
+DIYables_BluetoothRTC	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# IBluetooth interface
+begin	KEYWORD2
+end	KEYWORD2
+close	KEYWORD2
+loop	KEYWORD2
+isConnected	KEYWORD2
+send	KEYWORD2
+setOnConnected	KEYWORD2
+setOnDisconnected	KEYWORD2
+setOnMessage	KEYWORD2
+
+# BluetoothServer
+addApp	KEYWORD2
+removeApp	KEYWORD2
+getAppCount	KEYWORD2
+
+# BluetoothAppBase
+handleMessage	KEYWORD2
+setBluetooth	KEYWORD2
+
+# BluetoothMonitor
+setMessageCallback	KEYWORD2
+
+# BluetoothJoystick
+onJoystickValue	KEYWORD2
+onGetConfig	KEYWORD2
+setAutoReturn	KEYWORD2
+getAutoReturn	KEYWORD2
+setSensitivity	KEYWORD2
+getSensitivity	KEYWORD2
+
+# BluetoothPlotter
+onDataRequest	KEYWORD2
+setPlotTitle	KEYWORD2
+setAxisLabels	KEYWORD2
+setYAxisRange	KEYWORD2
+enableAutoScale	KEYWORD2
+setMaxSamples	KEYWORD2
+sendPlotData	KEYWORD2
+
+# BluetoothPinControl
+enablePin	KEYWORD2
+disablePin	KEYWORD2
+enableAllPins	KEYWORD2
+disableAllPins	KEYWORD2
+isPinEnabled	KEYWORD2
+getPinMode	KEYWORD2
+setPinMode	KEYWORD2
+getEnabledPinCount	KEYWORD2
+onPinWrite	KEYWORD2
+onPinRead	KEYWORD2
+onPinModeChange	KEYWORD2
+updatePinState	KEYWORD2
+
+# BluetoothChat
+onChatMessage	KEYWORD2
+onMonitorMessage	KEYWORD2
+
+# BluetoothSlider
+onSliderValue	KEYWORD2
+setRange	KEYWORD2
+setStep	KEYWORD2
+
+# BluetoothTable
+addRow	KEYWORD2
+getRowCount	KEYWORD2
+sendTableStructure	KEYWORD2
+sendValueUpdate	KEYWORD2
+
+# BluetoothTemperature
+onTemperatureRequest	KEYWORD2
+setUnit	KEYWORD2
+getUnit	KEYWORD2
+getMin	KEYWORD2
+getMax	KEYWORD2
+
+# BluetoothAnalogGauge
+onValueRequest	KEYWORD2
+
+# BluetoothRotator
+onRotatorAngle	KEYWORD2
+setLegendLabels	KEYWORD2
+
+# BluetoothRTC
+onTimeSync	KEYWORD2
+onLocalTimeSync	KEYWORD2
+onTimeRequest	KEYWORD2
+sendTime	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+BT_PIN_OUTPUT	LITERAL1
+BT_PIN_INPUT	LITERAL1
+ROTATOR_MODE_CONTINUOUS	LITERAL1
+ROTATOR_MODE_LIMITED	LITERAL1
