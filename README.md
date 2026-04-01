@@ -32,7 +32,7 @@ This library provides clean architecture with platform abstraction supporting bo
 | [DIYables ESP32-S3 Uno-form](https://diyables.io/products/esp32-s3-development-board-with-esp32-s3-wroom-1-n16r8-wifi-bluetooth-uno-compatible-form-factor-works-with-arduino-ide) | ✅ | ✅ | ✅ |
 | Arduino Nano 33 BLE | ✅ | ❌ | Not yet |
 | Arduino Nano 33 BLE Sense | ✅ | ❌ | Not yet |
-| Arduino Nano 33 IoT | ✅ | ❌ | Not yet |
+| Arduino Nano 33 IoT | ✅ | ❌ | ✅ |
 | Arduino Nano ESP32 | ✅ | ✅ | Not yet |
 | Arduino Nano RP2040 Connect | ✅ | ❌ | Not yet |
 | ESP32-S3 | ✅ | ✅ | Not yet |
