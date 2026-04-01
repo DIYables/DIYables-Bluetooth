@@ -6,7 +6,7 @@ A comprehensive Bluetooth communication library for Arduino and ESP32 that commu
 
 📲 **Download the app:**
 - **Android**: [Google Play Store](https://play.google.com/store/apps/details?id=io.diyables.bluetoothstem)
-- **iOS**: [App Store](#) *(coming soon)*
+- **iOS**: [App Store](https://apps.apple.com/us/app/diyables-bluetooth-stem/id6760932195)
 
 This library provides clean architecture with platform abstraction supporting both BLE (Bluetooth Low Energy) and Classic Bluetooth. Upload an Arduino sketch, connect via the mobile app, and start interacting with your hardware project — no mobile coding required.
 
@@ -24,8 +24,9 @@ This library provides clean architecture with platform abstraction supporting bo
 | Board | BLE | Classic Bluetooth | Tested |
 |---|---|---|---|
 | Arduino Uno R4 WiFi | ✅ | ❌ | ✅ |
+| [DIYables STEM V4 IoT Board (works like Arduino Uno R4 WiFi)](https://diyables.io/products/diyables-stem-v4-iot-fully-compatible-with-arduino-uno-r4-wifi) | ✅ | ❌ | ✅ |
+| [DIYables STEM V4B IoT Board (works like Arduino Uno R4 WiFi)](https://diyables.io/products/diyables-stem-v4b-iot-development-board-compatible-with-arduino-uno-r4-wifi-ra4m1-32-bit-arm-cortex-m4-with-esp32-s3-wifi-bluetooth-usb-c-for-learning-prototyping-education) | ✅ | ❌ | ✅ |
 | Arduino Giga | ✅ | ❌ | ✅ |
-| [DIYables STEM V4 IoT Board](https://diyables.io/products/diyables-stem-v4-iot-fully-compatible-with-arduino-uno-r4-wifi) | ✅ | ❌ | ✅ |
 | [DIYables ESP32](https://diyables.io/products/38-pin-esp32s-esp-wroom-32-wifi-and-bluetooth-development-board-with-usb-type-c-and-cp2102-dual-core-esp32-microcontroller-for-iot-projects-compatible-with-arduino-ide) | ✅ | ✅ | ✅ |
 | [DIYables ESP32 Uno-form](https://diyables.io/products/esp32-wroom-32-development-board-compatible-with-uno-form-factor-shields-wifi-bluetooth-ch340-usb-type-c-4mb-flash) | ✅ | ✅ | ✅ |
 | [DIYables ESP32-S3 Uno-form](https://diyables.io/products/esp32-s3-development-board-with-esp32-s3-wroom-1-n16r8-wifi-bluetooth-uno-compatible-form-factor-works-with-arduino-ide) | ✅ | ✅ | ✅ |
@@ -84,3 +85,36 @@ This library provides clean architecture with platform abstraction supporting bo
 - [ESP32 - Bluetooth Slider](https://esp32io.com/tutorials/esp32-diyables-bluetooth-app-slider)
 - [ESP32 - Bluetooth Table](https://esp32io.com/tutorials/esp32-diyables-bluetooth-app-table)
 - [ESP32 - Bluetooth Temperature](https://esp32io.com/tutorials/esp32-diyables-bluetooth-app-temperature)
+
+
+### Arduino MKR WiFi 1010
+
+- [Arduino MKR WiFi 1010 - Bluetooth Analog Gauge](https://newbiely.com/tutorials/arduino-mkr/arduino-mkr-wifi-1010-diyables-bluetooth-app-analog-gauge)
+- [Arduino MKR WiFi 1010 - Bluetooth Chat](https://newbiely.com/tutorials/arduino-mkr/arduino-mkr-wifi-1010-diyables-bluetooth-app-chat)
+- [Arduino MKR WiFi 1010 - Bluetooth Digital Pins](https://newbiely.com/tutorials/arduino-mkr/arduino-mkr-wifi-1010-diyables-bluetooth-app-digital-pins)
+- [Arduino MKR WiFi 1010 - Bluetooth Joystick](https://newbiely.com/tutorials/arduino-mkr/arduino-mkr-wifi-1010-diyables-bluetooth-app-joystick)
+- [Arduino MKR WiFi 1010 - Bluetooth Monitor](https://newbiely.com/tutorials/arduino-mkr/arduino-mkr-wifi-1010-diyables-bluetooth-app-monitor)
+- [Arduino MKR WiFi 1010 - Bluetooth Multiple Apps](https://newbiely.com/tutorials/arduino-mkr/arduino-mkr-wifi-1010-diyables-bluetooth-app-multiple-apps)
+- [Arduino MKR WiFi 1010 - Bluetooth Plotter](https://newbiely.com/tutorials/arduino-mkr/arduino-mkr-wifi-1010-diyables-bluetooth-app-plotter)
+- [Arduino MKR WiFi 1010 - Bluetooth Rotator](https://newbiely.com/tutorials/arduino-mkr/arduino-mkr-wifi-1010-diyables-bluetooth-app-rotator)
+- [Arduino MKR WiFi 1010 - Bluetooth Slider](https://newbiely.com/tutorials/arduino-mkr/arduino-mkr-wifi-1010-diyables-bluetooth-app-slider)
+- [Arduino MKR WiFi 1010 - Bluetooth Table](https://newbiely.com/tutorials/arduino-mkr/arduino-mkr-wifi-1010-diyables-bluetooth-app-table)
+- [Arduino MKR WiFi 1010 - Bluetooth Temperature](https://newbiely.com/tutorials/arduino-mkr/arduino-mkr-wifi-1010-diyables-bluetooth-app-temperature)
+
+
+
+### Arduino Nano 33 IoT
+
+- [Arduino Nano 33 IoT - Bluetooth Analog Gauge](https://newbiely.com/tutorials/arduino-nano-iot/arduino-nano-33-iot-diyables-bluetooth-app-analog-gauge)
+- [Arduino Nano 33 IoT - Bluetooth Chat](https://newbiely.com/tutorials/arduino-nano-iot/arduino-nano-33-iot-diyables-bluetooth-app-chat)
+- [Arduino Nano 33 IoT - Bluetooth Digital Pins](https://newbiely.com/tutorials/arduino-nano-iot/arduino-nano-33-iot-diyables-bluetooth-app-digital-pins)
+- [Arduino Nano 33 IoT - Bluetooth Joystick](https://newbiely.com/tutorials/arduino-nano-iot/arduino-nano-33-iot-diyables-bluetooth-app-joystick)
+- [Arduino Nano 33 IoT - Bluetooth Monitor](https://newbiely.com/tutorials/arduino-nano-iot/arduino-nano-33-iot-diyables-bluetooth-app-monitor)
+- [Arduino Nano 33 IoT - Bluetooth Multiple Apps](https://newbiely.com/tutorials/arduino-nano-iot/arduino-nano-33-iot-diyables-bluetooth-app-multiple-apps)
+- [Arduino Nano 33 IoT - Bluetooth Plotter](https://newbiely.com/tutorials/arduino-nano-iot/arduino-nano-33-iot-diyables-bluetooth-app-plotter)
+- [Arduino Nano 33 IoT - Bluetooth Rotator](https://newbiely.com/tutorials/arduino-nano-iot/arduino-nano-33-iot-diyables-bluetooth-app-rotator)
+- [Arduino Nano 33 IoT - Bluetooth Slider](https://newbiely.com/tutorials/arduino-nano-iot/arduino-nano-33-iot-diyables-bluetooth-app-slider)
+- [Arduino Nano 33 IoT - Bluetooth Table](https://newbiely.com/tutorials/arduino-nano-iot/arduino-nano-33-iot-diyables-bluetooth-app-table)
+- [Arduino Nano 33 IoT - Bluetooth Temperature](https://newbiely.com/tutorials/arduino-nano-iot/arduino-nano-33-iot-diyables-bluetooth-app-temperature)
+
+
